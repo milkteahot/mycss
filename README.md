@@ -1,8 +1,8 @@
 # mycss
 
 - [x] menu
-- [ ] search
-- [ ] message list
+- [x] search
+- [x] message list
 - [ ] user list
 - [ ] modal
 - [ ] card list

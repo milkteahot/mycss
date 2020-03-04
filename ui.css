@@ -28,3 +28,60 @@
 .menu-link:hover {
     color: white;
 }
+
+.search-form {
+    display: flex;
+    height: 40px;
+    margin: 1em auto;
+}
+
+.search-form input[type='search'] {
+    border: 0;
+    flex: 1;
+    border-radius: 0.3em;
+    font-size: 1rem;
+    margin-right: 10px;
+}
+
+.search-form input[type='submit'] {
+    width: 4em;
+    border: 0;
+    border-radius: 0.3em;
+    font-size: 1rem;
+    background: gold;
+}
+
+/* bullet-list */
+.info-list {
+    padding: 1.5em;
+}
+.info-list-item {
+    display: flex;
+    margin: 0.5em 0;
+}
+
+.info-list-item:before {
+    content:'✅';
+    margin-right: 0.5em;
+}
+
+/* message */
+
+.user-photo{
+    width: 50px;
+    height: 50px;
+    border: 2px solid #333;
+    border-radius: 50%;
+    background-color: gold;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 150%;
+    flex-shrink: 0;
+    margin: 0.8em;
+}
+.user-list {
+    padding: 0;
+}
+.user-item{
+    display: flex;
+}
