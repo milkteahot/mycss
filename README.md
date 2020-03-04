@@ -3,6 +3,6 @@
 - [x] menu
 - [x] search
 - [x] message list
-- [ ] user list
-- [ ] modal
+- [x] user list
+- [x] modal
 - [ ] card list
