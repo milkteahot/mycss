@@ -133,6 +133,7 @@
 }
 .card-list {
     padding: 0;
+    justify-content: space-between;
 }
 .card-item {
     margin-bottom: 2rem;
@@ -177,3 +178,5 @@
         width: 30.33333%;
     }
 }
+
+
