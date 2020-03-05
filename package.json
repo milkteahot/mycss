@@ -1,0 +1,6 @@
+{
+    "name":"hmm-hmm",
+    "scripts": {
+        "start" : "index.html"
+    }
+}

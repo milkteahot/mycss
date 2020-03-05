@@ -5,4 +5,4 @@
 - [x] message list
 - [x] user list
 - [x] modal
-- [ ] card list
+- [x] card list
